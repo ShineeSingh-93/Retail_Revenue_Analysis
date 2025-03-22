@@ -1,6 +1,7 @@
 # Retail_Revenue_Analysis  
 ## analysis Report  
-### ADD PHOTO HERE  
+![retail_analysis_report](https://github.com/user-attachments/assets/57967779-48d6-4961-8649-a17dee3599d9)
+  
 ### Introduction  
 Tata Group given a task to create visuals around four of the questions that they have requested.These Questions are:
 1. The retail store is interested to view the time series of the revenue data for the year 2011 only. He would like to view granular data by looking into revenue for each month. The CEO is interested in viewing the seasonal trends and wants to dig deeper into why these trends occur. This analysis will be helpful for the CEO to forecast for the next year.
